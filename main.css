@@ -29,7 +29,7 @@ html {
 }
 body {
     min-height: 100vh;
-    background: var(--blue-grey-100);
+    /* background: var(--blue-grey-100); */
 }
 main {
     max-width: max-content;
